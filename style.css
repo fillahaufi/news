@@ -1,0 +1,13 @@
+/* @apply doesn't work in Codepen 😥 */
+
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&display=swap");
+
+* {
+  font-family: "Syne", sans-serif;
+}
+
+body {
+  /*   height: 100vh; */
+  padding: 32px;
+  background: #1b3189;
+}
